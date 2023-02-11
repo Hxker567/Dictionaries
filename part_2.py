@@ -99,7 +99,7 @@
 
 #Manipulating dictionaries
 # a)Create a dictionary 'ODD' of odd numbers between 1 to 10, where the key is the decimal number and the value is the corresponding number in words
-ODD = {1:'one',3:'three',5:'five',7:'seven',9:'nine'}
+# ODD = {1:'one',3:'three',5:'five',7:'seven',9:'nine'}
 # ODD
 # print(ODD)
 # Output:{1: 'one', 3: 'three', 5: 'five', 7: 'seven', 9: 'nine'}
